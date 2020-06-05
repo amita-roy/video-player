@@ -48,3 +48,36 @@ body {
   display: flex;
   width: 140px;
 }
+
+.search-form {
+  width: 700px;
+  max-width: 35%;
+  display: flex;
+  height: 100%;
+}
+
+.search-form input {
+  padding: 7px 15px;
+  width: 100%;
+  border: 0.5px solid lightgray;
+  border-bottom-left-radius: 2px;
+  border-top-left-radius: 2px;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.search-btn {
+  width: 80px;
+  padding: 7px 20px;
+  background-color: #f0f0f0;
+  text-align: center;
+  border: 0.5px solid lightgray;
+  font-size: 16px;
+  border-bottom-right-radius: 2px;
+  border-top-right-radius: 2px;
+  border-left: none;
+}
+
+.search-btn:hover {
+  background-color: #e4e4e4;
+}
