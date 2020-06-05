@@ -4,7 +4,7 @@
 
 ![screenshot](./assets/images/website.png)
 
-- Live demo [@video-player]()
+- Live demo [@video-player](https://raw.githack.com/Amita-Roy/video-player/player-page/index.html)
 
 ## Built With
 
