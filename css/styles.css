@@ -137,3 +137,53 @@ body {
   font-size: 18px;
 }
 
+.video-resource {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  width: 100%;
+}
+
+.video-resource-top {
+  width: 100%;
+}
+
+.about-resource {
+  margin-left: 80px;
+  font-size: 14px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.uploader {
+  width: 60px;
+  border-radius: 100%;
+}
+.uploader-name {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.subscribers {
+  font-size: 12px;
+  font-weight: 500;
+  margin-top: 5px;
+}
+
+.video-uploader {
+  display: flex;
+  align-items: center;
+}
+
+.uploader-detail {
+  margin-left: 15px;
+}
+
+.subscribe-btn {
+  background-color: #cc0000;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 14px;
+  text-transform: uppercase;
+}
