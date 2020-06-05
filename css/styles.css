@@ -119,3 +119,20 @@ body {
   height: 100%;
   border: none;
 }
+
+.video-details .video-title {
+  margin-top: 20px;
+}
+
+.video-info {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.video-details .views {
+  font-size: 14px;
+}
+
+.icons {
+  font-size: 18px;
+}
