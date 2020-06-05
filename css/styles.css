@@ -81,3 +81,7 @@ body {
 .search-btn:hover {
   background-color: #e4e4e4;
 }
+
+.nav-right-content i {
+  font-size: 18px;
+}
