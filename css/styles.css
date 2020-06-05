@@ -213,3 +213,33 @@ aside .top-section {
 .thumbnail {
   display: flex;
 }
+
+.thumbnail img {
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.thumbnail .video-content {
+  margin-left: 15px;
+}
+
+.thumbnail .video-title {
+  margin-bottom: 10px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.video-content .views {
+  font-size: 14px;
+}
+
+.views p {
+  margin-bottom: 5px;
+  letter-spacing: 1px;
+}
+
+@media screen and (max-width: 1790px) {
+  .thumbnail {
+    flex-direction: column;
+  }
+}
