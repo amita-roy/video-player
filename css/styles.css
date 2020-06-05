@@ -137,6 +137,13 @@ body {
   font-size: 18px;
 }
 
+.share-btn {
+  border: none;
+  background-color: transparent;
+  font-size: 16px;
+  cursor: pointer;
+}
+
 .video-resource {
   margin-top: 20px;
   margin-bottom: 30px;
